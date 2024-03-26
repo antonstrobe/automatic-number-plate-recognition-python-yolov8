@@ -3,6 +3,9 @@ Local install
 git clone https://github.com/antonstrobe/automatic-number-plate-recognition-python-yolov8
 cd automatic-number-plate-recognition-python-yolov8
 pip install -r requirements.txt
+git clone https://github.com/antonstrobe/sort
+cd sort
+pip install -r requirements.txt
 ```
 
 
