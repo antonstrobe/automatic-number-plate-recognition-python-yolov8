@@ -8,7 +8,10 @@ pip install -r requirements.txt
 git clone https://github.com/antonstrobe/sort
 ```
 
-
+Узнать какие версии питона есть
+```
+%USERPROFILE% \AppData\Local\Programs\Python\
+```
 
 
 # automatic-number-plate-recognition-python-yolov8
