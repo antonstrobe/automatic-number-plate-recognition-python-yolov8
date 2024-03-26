@@ -4,9 +4,6 @@ git clone https://github.com/antonstrobe/automatic-number-plate-recognition-pyth
 cd automatic-number-plate-recognition-python-yolov8
 pip install -r requirements.txt
 ```
-```
-cd MyHospital
-```
 
 
 
