@@ -6,8 +6,6 @@ python -m ensurepip --upgrade
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 git clone https://github.com/antonstrobe/sort
-cd sort
-pip install -r requirements.txt
 ```
 
 
