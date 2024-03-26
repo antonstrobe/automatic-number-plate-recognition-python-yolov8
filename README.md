@@ -1,11 +1,17 @@
-# automatic-number-plate-recognition-python-yolov8
-
-
-Install
+Local install
+```
 git clone https://github.com/antonstrobe/automatic-number-plate-recognition-python-yolov8
 cd automatic-number-plate-recognition-python-yolov8
 pip install -r requirements.txt
+```
+```
+cd MyHospital
+```
 
+
+
+
+# automatic-number-plate-recognition-python-yolov8
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=fyJB1t0o0ms">
