@@ -1,5 +1,12 @@
 # automatic-number-plate-recognition-python-yolov8
 
+
+Install
+git clone https://github.com/antonstrobe/automatic-number-plate-recognition-python-yolov8
+cd automatic-number-plate-recognition-python-yolov8
+pip install -r requirements.txt
+
+
 <p align="center">
 <a href="https://www.youtube.com/watch?v=fyJB1t0o0ms">
     <img width="600" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/anpr_yolo2.jpg" alt="Watch the video">
