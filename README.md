@@ -1,16 +1,27 @@
 Local install
 ```
+python -m venv venv
+source venv/Scripts/activate
+```
+```
 git clone https://github.com/antonstrobe/automatic-number-plate-recognition-python-yolov8
 cd automatic-number-plate-recognition-python-yolov8
 pip install -r requirements.txt
 ```
 ```
+pip install torch torchvision
+pip install opencv-python
+pip install pytesseract
+pip install ultralytics
 git clone https://github.com/antonstrobe/sort
 cd sort
 pip install -r requirements.txt
 python -m ensurepip --upgrade
 python -m pip install --upgrade pip
+pip install pytorch-lightning
+python main.py
 ```
+
 
 Узнать какие версии питона есть
 ```
