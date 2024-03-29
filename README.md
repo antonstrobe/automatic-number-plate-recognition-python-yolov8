@@ -1,6 +1,6 @@
 Local install
 ```
-git clone https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8
+git clone https://github.com/antonstrobe/automatic-number-plate-recognition-python-yolov8
 cd automatic-number-plate-recognition-python-yolov8
 python -m ensurepip --upgrade
 python -m pip install --upgrade pip
