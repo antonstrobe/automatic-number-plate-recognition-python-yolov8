@@ -19,8 +19,12 @@ pip install -r requirements.txt
 python -m ensurepip --upgrade
 python -m pip install --upgrade pip
 pip install pytorch-lightning
+```
+```
+cd ..
 python main.py
 ```
+
 
 
 Узнать какие версии питона есть
