@@ -5,7 +5,11 @@ cd automatic-number-plate-recognition-python-yolov8
 python -m ensurepip --upgrade
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+```
+```
 git clone https://github.com/antonstrobe/sort
+cd sort
+pip install -r requirements.txt
 ```
 
 Узнать какие версии питона есть
